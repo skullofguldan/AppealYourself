@@ -1,0 +1,11 @@
+## Interface: 11403
+## Title: AppealYourself
+## Notes: Supports Classic Hardcore (Allows personal appeals and more)
+## Author: Gul'dan
+## Version: 0.11.42
+## Dependencies: Hardcore
+## DefaultState: enabled
+## SavedVariables: Hardcore_Settings,GreenWallAccount, Backup_Character_Data
+## SavedVariablesPerCharacter: Hardcore_Character,GreenWall,GreenWallMeta,GreenWallLog
+
+Helper.lua
